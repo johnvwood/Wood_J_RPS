@@ -1,0 +1,26 @@
+------------
+Python RPS
+------------
+
+Steps:
+
+	1 - player picks a weapon
+	2 - cpu cooses a weapon
+	3 - compare the two choices
+	4 - decide winner
+	5 - remove life from loser
+	6 - end game when player wins twice
+	7 - quit game
+
+Framework:
+
+	- quit at any time
+	- cpu is a random choice
+	- cpu draws after player
+	- display message for win/loss
+	- clickable weapon choice
+	- continue button shown after round
+	- two rounds is a win
+	- three rounds total
+	- display score
+
